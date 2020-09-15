@@ -16,3 +16,6 @@ O Shop For Me é um app que oferece produtos de mercado. Diferente de app de sup
 
 # Diagrama de atividade
 ![](https://github.com/welker-campos/Projeto-Desenvolvimento-II/blob/master/DiagramaAtividades.jpeg)
+
+# Diagrama de caso class
+![](https://github.com/welker-campos/Projeto-Desenvolvimento-II/blob/master/Diagrama%20de%20Class_forMe.PNG)
